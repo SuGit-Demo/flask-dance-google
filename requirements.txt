@@ -1,3 +1,4 @@
-flask-dance
+Flask-Dance
+Flask
 gunicorn
 blinker
